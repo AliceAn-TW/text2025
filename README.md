@@ -1,5 +1,3 @@
 ## 團隊成員
 
-- Peggy
-- gonsakon
-- name
+- loie hates git hub
